@@ -174,3 +174,4 @@ D:\Jenkins2\Day-7\SeleniumTests\obj\Debug\net8.0\refint\SeleniumTests.dll
 D:\Jenkins2\Day-7\SeleniumTests\obj\Debug\net8.0\SeleniumTests.pdb
 D:\Jenkins2\Day-7\SeleniumTests\obj\Debug\net8.0\SeleniumTests.genruntimeconfig.cache
 D:\Jenkins2\Day-7\SeleniumTests\obj\Debug\net8.0\ref\SeleniumTests.dll
+D:\Jenkins2\Day-7\SeleniumTests\obj\Debug\net8.0\SeleniumTests.sourcelink.json
